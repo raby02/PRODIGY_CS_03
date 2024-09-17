@@ -50,16 +50,15 @@ The tool provides real-time feedback to the user on the password's strength, ind
 ## How to Run
 1. **Clone the Repository**: Download or clone the project from GitHub.
    ```bash
-   git clone [https://github.com/raby02/PRODIGY_CS_03.git]
-     ```
+   git clone https://github.com/raby02/PRODIGY_CS_03.git 
 2. **Navigate to the project directory**:
     ```bash
     cd password-complexity-checker
-    ```
-3.**Run the script**:
+   ```
+3. **Navigate to the project directory**:
  ```bash
-    python password_checker.py
-    ```
+   python password_checker.py
+ ```
    
 ## Code Explanation
 
