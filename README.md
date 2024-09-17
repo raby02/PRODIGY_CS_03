@@ -53,7 +53,7 @@ The tool provides real-time feedback to the user on the password's strength, ind
    git clone https://github.com/raby02/PRODIGY_CS_03.git 
 2. **Navigate to the project directory**:
     ```bash
-    cd password-complexity-checker
+    cd PRODIGY_CS_03
    ```
 3. **Navigate to the project directory**:
  ```bash
